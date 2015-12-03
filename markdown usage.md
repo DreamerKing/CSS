@@ -6,11 +6,11 @@ Markdown语法
     ```   
 2. 图片  
 	```
-	![alt text](/path/)   
-	![alt text][id]   
-	[id]:/url/to/img.jpg "title"  
+	![alt text](/path/)      
+	![alt text][id]     
+	[id]:/url/to/img.jpg "title"    
 	```　　
-	E：！[test](/img/test.png "for test")  
+	E：![test](/img/test.png "for test")  
 
 3. 强调  
 	```
@@ -42,7 +42,7 @@ Markdown语法
 	`在需要分割的内容下面单独一行输入3个以上的—、*或_`　　   
 9. 列表标记   
 	```
-	在标记项前使用数字、*或-```    
+	在标记项前使用数字、*或-`    
 	有序列表以数字后加. 加空格   
 	无序列表以*加空格开始   
 	有序列表与无序列表可以嵌套使用   
